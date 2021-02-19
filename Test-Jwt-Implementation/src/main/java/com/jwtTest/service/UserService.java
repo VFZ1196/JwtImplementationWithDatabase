@@ -11,8 +11,6 @@ import org.springframework.stereotype.Service;
 import com.jwtTest.model.User;
 import com.jwtTest.repository.UserRepository;
 
-
-
 @Service
 public class UserService implements UserDetailsService {
 	
